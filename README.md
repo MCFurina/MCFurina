@@ -1,4 +1,7 @@
-# 这是 MCFurina 的 GitHub 主页
-你好啊！欢迎来到我的 GitHub 主页！这里是我分享我的项目和代码的地方。如果你对我的项目感兴趣，或者有任何问题，请随时联系我。
-# 联系方式
-QQ: 2235787316 电子邮件: 2235787316@qq.com
+# MCFurina  
+![image](https://avatars.githubusercontent.com/u/96320440)
+## 欢迎来到我的主页！  
+我是MCFurina，一个编程初学者，正在学习各种编程语言  
+好友：[@CodeCubist](https://github.com/CodeCubist) [@liuqirui911](https://github.com/liuqirui911)  
+## 你可以通过以下方式联系我：  
+QQ: 2235787316 电子邮件: 2235787316@qq.com  
